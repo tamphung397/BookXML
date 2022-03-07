@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><library>
+    <book>
+        <id>B01</id>
+        <title>90</title>
+        <author title="9">
+            <firstname>9</firstname>
+            <lastname>9</lastname>
+        </author>
+        <price>9.0</price>
+    </book>
+    <book>
+        <id>B02</id>
+        <title>7</title>
+        <author title="7">
+            <firstname>7</firstname>
+            <lastname>7</lastname>
+        </author>
+        <price>7.5</price>
+    </book>
+    <book>
+        <id>B03</id>
+        <title>Java XML</title>
+        <author title="Mrs">
+            <firstname>first</firstname>
+            <lastname>last</lastname>
+        </author>
+        <price>16.0</price>
+    </book>
+    <book>
+        <id>9</id>
+        <title>9</title>
+        <author title="Mr">
+            <firstname>9</firstname>
+            <lastname>9</lastname>
+        </author>
+        <price>9.0</price>
+    </book>
+    <book>
+        <id>8</id>
+        <title>8</title>
+        <author title="8">
+            <firstname>8</firstname>
+            <lastname>8</lastname>
+        </author>
+        <price>8.0</price>
+    </book>
+    <book>
+        <id>7</id>
+        <title>8</title>
+        <author title="8">
+            <firstname>8</firstname>
+            <lastname>8</lastname>
+        </author>
+        <price>8.0</price>
+    </book>
+    <book>
+        <id>12</id>
+        <title>1</title>
+        <author title="1">
+            <firstname>1</firstname>
+            <lastname>1</lastname>
+        </author>
+        <price>1.0</price>
+    </book>
+    <book>
+        <id>89</id>
+        <title>8</title>
+        <author title="9">
+            <firstname>89</firstname>
+            <lastname>898</lastname>
+        </author>
+        <price>98.0</price>
+    </book>
+</library>
